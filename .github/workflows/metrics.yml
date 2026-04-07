@@ -1,0 +1,80 @@
+# GitHub Action for generating profile metrics/stats
+# Uses lowlighter/metrics which runs entirely via GitHub Actions
+# No external service dependency - always works!
+
+name: Generate GitHub Metrics
+
+on:
+  # Runs at 00:00 UTC every day
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # Allows manual trigger
+  workflow_dispatch:
+  
+  # Runs on push to main branch
+  push:
+    branches:
+      - main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      # ═══════════════════════════════════════════
+      # 📈 GitHub Stats Card
+      # ═══════════════════════════════════════════
+      - name: Generate GitHub Stats
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-stats.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: MISBAHULLL
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Asia/Jakarta
+          config_display: large
+          config_padding: 0, 8 + 11%
+          
+          # Colors & Theme
+          extras_css: |
+            :root {
+              --color-calendar-graph-day-bg: #161b22;
+            }
+            h2, .field {
+              color: #6e40c9 !important;
+            }
+            .color-calendar-graph-day-bg {
+              fill: #0d1117;
+            }
+
+      # ═══════════════════════════════════════════
+      # 🗣️ Top Languages Card
+      # ═══════════════════════════════════════════
+      - name: Generate Top Languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: MISBAHULLL
+          template: classic
+          base: ""
+          config_timezone: Asia/Jakarta
+          config_display: large
+          config_padding: 0, 8 + 11%
+          
+          # Languages plugin
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
