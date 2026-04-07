@@ -37,3 +37,63 @@ const system = {
 console.log("[SYSTEM] Boot sequence initialized...");
 console.log(`[USER] ${system.user} authenticated ✓`);
 console.log("[STATUS] Environment online. Ready to deploy 🚀");
+
+
+---
+
+## ⚡ Tech Arsenal
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,tensorflow,pytorch,git,linux,mongodb,postgresql,html,css,tailwind,vscode,figma,bash,docker" />
+</div>
+
+---
+
+## 🧠 AI / Data Science Toolkit
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,jupyter,opencv" />
+</div>
+
+---
+
+## 🔥 Cyber Activity Dashboard
+<div align="center">
+
+<!-- Cyberpunk Divider -->
+<img src="https://i.imgur.com/THpZkVv.gif" width="100%" />
+
+<!-- Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="160" />
+
+</div>
+
+---
+
+## 🏆 System Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-bg=true&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
+## 🚀 Highlighted Projects
+
+| Project | Description | Stack |
+|--------|-------------|--------|
+| ⚡ **Neural Vision AI** | Real-time CV inference | Python, TensorFlow |
+| 🧠 **Time-Series Forecaster** | Predictive analytics engine | Python, Sklearn |
+| 🌐 **Cyberpunk Web Portfolio** | Neon UI, Next.js, Responsive | Next.js, Tailwind |
+| 🔐 **Threat Monitor System** | Security anomaly detection | Python, Flask |
+
+---
+
+## 🛰️ Workflow Timeline (Animated Feel)
+```txt
+[00:00] → Initializing Kernel...
+[00:01] → Loading Dev Modules...
+[00:02] → Booting Neural Systems...
+[00:03] → Activating AI Stack...
+[00:04] → Establishing Environment...
+[00:05] → USER READY ✔
+
+
