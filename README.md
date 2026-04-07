@@ -49,7 +49,7 @@
 - 📊 I'm passionate about **turning data into actionable insights**
 - 🎯 2026 Goals: **Contribute to Open Source & master AI/ML**
 - ⚡ Fun fact: **I code, I learn, I repeat ♾️**
-- 📫 <a href="mailto:misbahulmunir36843@gmail.com">Reach me at:</a>
+- 📫 Reach me at <a href="mailto:misbahulmunir36843@gmail.com">misbahulmunir36843@gmail.com</a>
 
 <br clear="both"/>
 <br/>
