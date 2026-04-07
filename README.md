@@ -126,13 +126,16 @@
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MISBAHULLL&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+  <img width="49%" src="https://raw.githubusercontent.com/MISBAHULLL/MISBAHULLL/main/github-stats.svg" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MISBAHULLL&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=e3b341&currStreakLabel=6e40c9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MISBAHULLL&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-</p>
+<!-- 
+  ℹ️ Fallback: If you prefer external service (when it's back online), uncomment these:
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MISBAHULLL&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MISBAHULLL&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8"/>
+-->
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- 📊 ACTIVITY GRAPH -->
