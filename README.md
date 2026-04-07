@@ -217,7 +217,7 @@
 ## 🌐 Let's Connect!
 
 <p align="center">
-  <a href="linkedin.com/in/misbahul-munir-da " target="_blank">
+  <a href="https://www.linkedin.com/in/misbahul-munir-da " target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/_msbhh_?igsh=MXVhMjZ2cTZjZWtyeQ==" target="_blank">
