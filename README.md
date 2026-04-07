@@ -150,9 +150,9 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=MISBAHULLL&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
-</p>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MISBAHULLL&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&rank=-?&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Experience" alt="GitHub Trophies"/>
+  </a>
 
 <br/>
 
