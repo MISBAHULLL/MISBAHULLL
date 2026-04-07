@@ -148,11 +148,27 @@
 <!-- 🏆 TROPHIES -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Milestones
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MISBAHULLL&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&rank=-?&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Experience" alt="GitHub Trophies"/>
-  </a>
+<!-- 
+  ℹ️ Uncomment the section below when github-profile-trophy service is back online:
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=MISBAHULLL&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+    </a>
+  </p>
+-->
+
+<p align="center">
+<img src="https://img.shields.io/badge/🔥_Total_Commits-Active_Contributor-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Commits"/>
+  <img src="https://img.shields.io/badge/⭐_Stars_Earned-Open_Source-e3b341?style=for-the-badge&labelColor=0d1117" alt="Stars"/>
+  <img src="https://img.shields.io/badge/📦_Repositories-Project_Builder-238636?style=for-the-badge&labelColor=0d1117" alt="Repos"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🤝_Pull_Requests-Collaborator-1f6feb?style=for-the-badge&labelColor=0d1117" alt="PRs"/>
+  <img src="https://img.shields.io/badge/🐛_Issues-Problem_Solver-da3633?style=for-the-badge&labelColor=0d1117" alt="Issues"/>
+  <img src="https://img.shields.io/badge/👥_Followers-Community-8957e5?style=for-the-badge&labelColor=0d1117" alt="Followers"/>
+</p>
 
 <br/>
 
