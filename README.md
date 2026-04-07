@@ -49,7 +49,7 @@
 - 📊 I'm passionate about **turning data into actionable insights**
 - 🎯 2026 Goals: **Contribute to Open Source & master AI/ML**
 - ⚡ Fun fact: **I code, I learn, I repeat ♾️**
-- 📫 Reach me at: **misbahulmunir@gmail.com**
+- 📫 Reach me at: **misbahulmunir36843@gmail.com**
 
 <br clear="both"/>
 <br/>
@@ -217,13 +217,13 @@
 ## 🌐 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/misbahulmunir" target="_blank">
+  <a href="linkedin.com/in/misbahul-munir-da " target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/misbahulmunir" target="_blank">
+  <a href="https://www.instagram.com/_msbhh_?igsh=MXVhMjZ2cTZjZWtyeQ==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram"/>
   </a>
-  <a href="mailto:misbahulmunir@gmail.com">
+  <a href="mailto:misbahulmunir36843@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail"/>
   </a>
   <a href="https://github.com/MISBAHULLL" target="_blank">
