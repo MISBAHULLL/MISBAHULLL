@@ -18,10 +18,28 @@
 const developer = {
   name       : "Misbahul Munir",
   role       : "Mahasiswa Informatika (Semester 6)",
-  focus      : ["Web Development", "Machine Learning", "Data Analytics", "IoT"],
+  focus      : ["Web Development", "Machine Learning", "Data Analytics", "AI"],
   projects   : ["RecaLearn", "RAG Systems"],
   activities : ["Tim Robotika", "Kepanitiaan Event"],
   goal       : "Membangun solusi efisien melalui kode dan data."
 };
 
 console.log(`[SYSTEM] ${developer.name} is online. Ready to execute! 🚀`);
+
+🧬 [ 02_TECH_MATRIX.log ]
+<div align="center">
+<br />
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,ts,js&theme=dark" />
+<br /><br />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,mysql,postgres,mongodb&theme=dark" />
+<br /><br />
+<img src="https://skillicons.dev/icons?i=solidity,linux,docker,git,github,figma&theme=dark" />
+</a>
+</div>
+
+<div align="center">
+
+
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
+</div>
