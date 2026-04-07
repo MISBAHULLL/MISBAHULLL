@@ -1,99 +1,245 @@
-<!-- ========================================================= -->
-<!--               CYBER TERMINAL · ANIMATED README           -->
-<!-- ========================================================= -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🌊 ANIMATED HEADER -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Misbahul%20Munir&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Data%20Enthusiast%20%7C%20AI%20Explorer&descSize=16&descAlignY=55&descAlign=50"/>
 
-<!-- GLITCH TITLE ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=2800&pause=600&color=00FFF7&center=true&vCenter=true&repeat=false&width=500&lines=Initializing+User+Profile..." />
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ✨ ANIMATED TYPING -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=11,6,20&text=YOUR_NAME&fontSize=40&fontColor=00FFF7&fontAlignY=38&animation=fadeIn&desc=A.I.+Enthusiast+%7C+Fullstack+Dev+%7C+Data+Scientist&descAlignY=60&descColor=0080FF" />
+<p align="center">
+  <a href="https://github.com/MISBAHULLL">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Assalamu'alaikum%2C+Welcome+to+my+GitHub!;%F0%9F%92%BB+Full+Stack+Developer+%7C+Laravel+%26+React;%F0%9F%93%8A+Data+Analytics+%7C+Data+Science+%7C+AI+%26+ML;%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
+  </a>
+</p>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=800&color=00FFF7&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Data+Science+Practitioner;AI+%26+Machine+Learning+Explorer;Always+Learning+Every+Single+Day" />
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 📊 PROFILE BADGES -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<br>
+<p align="center">
+  <a href="https://github.com/MISBAHULLL?tab=followers">
+    <img src="https://img.shields.io/github/followers/MISBAHULLL?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=6e40c9&labelColor=0d1117" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/MISBAHULLL?tab=following">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMISBAHULLL&query=%24.following&label=Following&style=for-the-badge&logo=github&logoColor=white&color=238636&labelColor=0d1117" alt="GitHub Following"/>
+  </a>
+  <img src="https://img.shields.io/github/stars/MISBAHULLL?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white&color=e3b341&labelColor=0d1117" alt="GitHub Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=MISBAHULLL&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile Views"/>
+</p>
 
-<!-- VISITORS + FOLLOWERS + STATUS -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0D1117&labelColor=00FFF7&label=VISITORS" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=0D1117&labelColor=0080FF&label=FOLLOWERS" />
-<img src="https://img.shields.io/badge/STATUS-LEARNING-00FFF7?style=for-the-badge&labelColor=0D1117" />
+<br/>
 
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🙋‍♂️ ABOUT ME -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
----
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-## 🧑‍💻 SYSTEM.identity
-```js
-const system = {
-  user: "YOUR_NAME",
-  username: "YOUR_USERNAME",
-  location: "Indonesia",
-  mode: "ACTIVE",
-  stack: ["React", "Next.js", "TypeScript", "Python", "AI/ML"],
-  motto: "Build. Learn. Iterate. Ship.",
-};
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
-console.log("[SYSTEM] Boot sequence initialized...");
-console.log(`[USER] ${system.user} authenticated ✓`);
-console.log("[STATUS] Environment online. Ready to deploy 🚀");
+> *"Learning never exhausts the mind — it only ignites it."*
 
+<br/>
 
----
+- 🔭 I'm currently exploring **Full Stack Development, Data Analytics, Data Science, AI & ML**
+- 🌱 I'm deepening my knowledge in **Machine Learning & Deep Learning**
+- 💻 I love building things with **Laravel, React, Next.js & Python**
+- 📊 I'm passionate about **turning data into actionable insights**
+- 🎯 2026 Goals: **Contribute to Open Source & master AI/ML**
+- ⚡ Fun fact: **I code, I learn, I repeat ♾️**
+- 📫 Reach me at: **misbahulmunir@gmail.com**
 
-## ⚡ Tech Arsenal
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,tensorflow,pytorch,git,linux,mongodb,postgresql,html,css,tailwind,vscode,figma,bash,docker" />
-</div>
+<br clear="both"/>
+<br/>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🛠️ TECH STACK -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-## 🧠 AI / Data Science Toolkit
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,jupyter,opencv" />
-</div>
+## 🛠️ Tech Stack & Tools
 
----
+<details open>
+<summary><b>🔤 Languages</b></summary>
+<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,js,ts,python,html,css&theme=dark&perline=6" alt="Languages"/>
+  </a>
+</p>
+</details>
 
-## 🔥 Cyber Activity Dashboard
-<div align="center">
+<details open>
+<summary><b>🧰 Frameworks & Libraries</b></summary>
+<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,tailwind,bootstrap,nodejs&theme=dark&perline=6" alt="Frameworks"/>
+  </a>
+</p>
+</details>
 
-<!-- Cyberpunk Divider -->
-<img src="https://i.imgur.com/THpZkVv.gif" width="100%" />
+<details open>
+<summary><b>🗄️ Databases & Cloud</b></summary>
+<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,supabase,vercel&theme=dark&perline=6" alt="Databases"/>
+  </a>
+</p>
+</details>
 
-<!-- Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="160" />
+<details open>
+<summary><b>🤖 Data Science & AI</b></summary>
+<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,anaconda&theme=dark&perline=6" alt="AI/ML"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
+</details>
 
-</div>
+<details open>
+<summary><b>🔧 Tools & Platforms</b></summary>
+<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,postman&theme=dark&perline=6" alt="Tools"/>
+  </a>
+</p>
+</details>
 
----
+<br/>
 
-## 🏆 System Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-bg=true&no-frame=true&row=1&column=6" />
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 📈 GITHUB STATS -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
----
+## 📈 GitHub Statistics
 
-## 🚀 Highlighted Projects
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MISBAHULLL&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MISBAHULLL&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=e3b341&currStreakLabel=6e40c9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+</p>
 
-| Project | Description | Stack |
-|--------|-------------|--------|
-| ⚡ **Neural Vision AI** | Real-time CV inference | Python, TensorFlow |
-| 🧠 **Time-Series Forecaster** | Predictive analytics engine | Python, Sklearn |
-| 🌐 **Cyberpunk Web Portfolio** | Neon UI, Next.js, Responsive | Next.js, Tailwind |
-| 🔐 **Threat Monitor System** | Security anomaly detection | Python, Flask |
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MISBAHULLL&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+</p>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 📊 ACTIVITY GRAPH -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-## 🛰️ Workflow Timeline (Animated Feel)
-```txt
-[00:00] → Initializing Kernel...
-[00:01] → Loading Dev Modules...
-[00:02] → Booting Neural Systems...
-[00:03] → Activating AI Stack...
-[00:04] → Establishing Environment...
-[00:05] → USER READY ✔
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MISBAHULLL&bg_color=0d1117&color=6e40c9&line=6e40c9&point=e3b341&area_color=6e40c9&area=true&hide_border=true&custom_title=📊%20Contribution%20Graph" alt="Activity Graph"/>
+</p>
 
+<br/>
 
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🏆 TROPHIES -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=MISBAHULLL&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+</p>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🐍 SNAKE ANIMATION -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MISBAHULLL/MISBAHULLL/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MISBAHULLL/MISBAHULLL/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MISBAHULLL/MISBAHULLL/output/github-snake-dark.svg" width="100%"/>
+</picture>
+
+<br/><br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 💡 RANDOM DEV QUOTE -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+## 💡 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+</p>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🌐 CONNECT WITH ME -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+## 🌐 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/misbahulmunir" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/misbahulmunir" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram"/>
+  </a>
+  <a href="mailto:misbahulmunir@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/MISBAHULLL" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
+  </a>
+</p>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 📌 PINNED SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+## 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/MISBAHULLL?tab=repositories">
+    <img src="https://img.shields.io/badge/🔗%20View%20All%20Repositories-6e40c9?style=for-the-badge&labelColor=0d1117" alt="View All Repos"/>
+  </a>
+</p>
+
+<!-- You can add specific repos here using github-readme-stats pin cards: -->
+<!-- 
+<p align="center">
+  <a href="https://github.com/MISBAHULLL/REPO_NAME">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MISBAHULLL&repo=REPO_NAME&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" alt="Repo Card"/>
+  </a>
+</p>
+-->
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ☕ SUPPORT -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Thanks"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/⭐%20Star%20my%20repos%20if%20you%20find%20them%20useful!-e3b341?style=for-the-badge&labelColor=0d1117" alt="Star"/>
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🌊 ANIMATED FOOTER -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:161b22,100:0d1117&height=120&section=footer"/>
