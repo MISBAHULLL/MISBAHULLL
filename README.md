@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/MISBAHULLL">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Assalamu'alaikum%2C+Welcome+to+my+GitHub!;%F0%9F%92%BB+Full+Stack+Developer+%7C+Laravel+%26+React;%F0%9F%93%8A+Data+Analytics+%7C+Data+Science+%7C+AI+%26+ML;%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Assalamu'alaikum+%F0%9F%91%8B+Welcome+to+my+GitHub!;Full+Stack+Developer+%F0%9F%92%BB+Laravel+%26+React;Data+Analytics+%7C+Data+Science+%F0%9F%93%8A;AI+%26+Machine+Learning+Explorer+%F0%9F%A4%96;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
