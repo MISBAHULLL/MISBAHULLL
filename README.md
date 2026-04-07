@@ -39,11 +39,18 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MISBAHULLL&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=E05DD0" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MISBAHULLL&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=E05DD0&cache_seconds=1800" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MISBAHULLL&theme=radical&hide_border=true&background=0D1117&ring=00FFCC&fire=E05DD0&currStreakLabel=00FFCC" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
   <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MISBAHULLL&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFCC" alt="Top Languages" width="50%" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=MISBAHULLL&label=Profile%20Views&color=00FFCC&style=flat" alt="Profile Views" />
+</div>
   <img src="https://komarev.com/ghpvc/?username=MISBAHULLL&label=Profile%20Views&color=00FFCC&style=flat" alt="Profile Views" />
 </div>
